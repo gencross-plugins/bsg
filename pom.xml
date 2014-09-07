@@ -17,7 +17,7 @@
 	
 	<scm>
 		<connection>scm:git:git://github.com/gencross-plugins/bsg.git</connection>
-		<developerConnection>scm:git@github.com:gencross-plugins/bsg.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:gencross-plugins/bsg.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 	
