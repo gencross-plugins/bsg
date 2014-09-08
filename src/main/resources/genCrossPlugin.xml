@@ -4,7 +4,7 @@
 	<entry key="genCross.plugin.name">BSG</entry>
 	<entry key="genCross.plugin.className">com.mrprez.gencross.impl.bsg.BSG</entry>
 	<entry key="genCross.plugin.gcrFileName">com/mrprez/gencross/impl/bsg/BSG.gcr</entry>
-	<entry key="genCross.plugin.version">1.8</entry>
+	<entry key="genCross.plugin.version">1.9</entry>
 	<entry key="genCross.plugin.migration.1.3">com.mrprez.gencross.impl.bsg.MigrationFrom1_3To1_5</entry>
 	<entry key="genCross.plugin.migration.1.5">com.mrprez.gencross.impl.bsg.MigrationFrom1_5To1_6</entry>
 	<entry key="genCross.plugin.migration.1.6">com.mrprez.gencross.impl.bsg.MigrationFrom1_6To1_7</entry>
