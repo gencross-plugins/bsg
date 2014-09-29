@@ -12,7 +12,7 @@
 	<parent>
 		<artifactId>gencross-plugins</artifactId>
 		<groupId>com.mrprez.gencross.plugins</groupId>
-		<version>1.2</version>
+		<version>${gencross.version}</version>
 	</parent>
 	
 	<scm>
