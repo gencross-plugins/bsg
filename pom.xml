@@ -5,7 +5,7 @@
 	<packaging>jar</packaging>
 	
 	<artifactId>bsg</artifactId>
-	<version>1.9-SNAPSHOT</version>
+	<version>1.9</version>
 	
 	<name>BSG</name>
 	
@@ -18,7 +18,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/gencross-plugins/bsg.git</connection>
 		<developerConnection>scm:git:git@github.com:gencross-plugins/bsg.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>bsg-1.9</tag>
 	</scm>
 	
 	
